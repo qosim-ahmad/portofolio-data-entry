@@ -1,0 +1,70 @@
+{
+  "toko": "Toko Oleh-Oleh Contoh",
+  "jumlah_produk": 8,
+  "produk": [
+    {
+      "id": 101,
+      "nama_produk": "Kopi Arabika Gayo 250 g",
+      "kategori": "Minuman",
+      "harga": 85000,
+      "stok": 12,
+      "aktif": true
+    },
+    {
+      "id": 102,
+      "nama_produk": "Teh Hijau Premium 100 g",
+      "kategori": "Minuman",
+      "harga": 45000,
+      "stok": 30,
+      "aktif": true
+    },
+    {
+      "id": 103,
+      "nama_produk": "Gula Aren Cair 500 ml",
+      "kategori": "Bahan Makanan",
+      "harga": 38000,
+      "stok": 25,
+      "aktif": true
+    },
+    {
+      "id": 104,
+      "nama_produk": "Madu Hutan 350 g",
+      "kategori": "Bahan Makanan",
+      "harga": 92000,
+      "stok": 0,
+      "aktif": false
+    },
+    {
+      "id": 105,
+      "nama_produk": "Keripik Pisang Original 200 g",
+      "kategori": "Camilan",
+      "harga": 22000,
+      "stok": 48,
+      "aktif": true
+    },
+    {
+      "id": 106,
+      "nama_produk": "Bika Ambon Mini (isi 6)",
+      "kategori": "Camilan",
+      "harga": 55000,
+      "stok": 15,
+      "aktif": true
+    },
+    {
+      "id": 107,
+      "nama_produk": "Sambal Andaliman 150 g",
+      "kategori": "Bumbu",
+      "harga": 35000,
+      "stok": 20,
+      "aktif": true
+    },
+    {
+      "id": 108,
+      "nama_produk": "Bubuk Kakao Murni 200 g",
+      "kategori": "Bahan Makanan",
+      "harga": 48000,
+      "stok": 9,
+      "aktif": true
+    }
+  ]
+}
